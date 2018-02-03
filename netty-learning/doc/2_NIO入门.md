@@ -177,3 +177,15 @@ public final Buffer rewind() {
 * 经历了大规模的商业应用考验，质量已经得到验证。在互联网、大数据、网络游戏、企业应用、电信软件等众多行业得到成功商用，证明了它可以完全满足不同行业的商业应用。
 
 正是因为这些优点，`Netty`逐渐成为`Java NIO`编程的首选框架。
+
+----
+
+代码对应目录：
+
+`time_server_bio`
+
+`time_server_bio_using_threadpool`
+
+`time_server_nio`
+
+`time_server_aio`

@@ -63,3 +63,11 @@ TCP底层并不了解上层业务数据的具体含义，它会根据TCP缓冲�
  它被设计用来支持TCP的粘包和拆包。
 
  当然，如果消息不是以换行符结束，Netty提供了多种其他支持TCP粘包\拆包的解码器，用来满足用户需求。
+
+
+ ---
+ 代码对应以下目录：
+
+`time_server_netty_having_sticky_package_problem`
+
+`time_server_netty_solving_sticky_package_problem`
